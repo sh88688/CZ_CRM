@@ -16,7 +16,7 @@
     "@zeit/next-sass": "^1.0.1",
     "isomorphic-unfetch": "^3.0.0",
     "mdbreact": "latest",
-    "next": "^9.0.5",
+    "next": "^9.3.2",
     "next-compose-plugins": "^2.2.0",
     "next-fonts": "^0.18.0",
     "next-images": "^1.2.0",
